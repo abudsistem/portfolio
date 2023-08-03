@@ -1,11 +1,13 @@
-import Image from 'next/image'
+//import Image from 'next/image'
 import styles from './page.module.css'
 import AboutMe from './about/page'
 
 export default function Home() {
   return (
-    <main className={styles.main}>
+    <main className={styles.background}>
+
       <AboutMe />
+      
       <div className={styles.description}>
         <p>
           Get started by editing&nbsp;
