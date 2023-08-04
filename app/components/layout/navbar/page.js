@@ -5,7 +5,7 @@ export default function Navbar() {
     return(
             <div >
                 <ul >
-                    <li  >
+                    <li className={`${styles.navItem}`}>
                         <Link href='/' >
                             icono
                         </Link>
