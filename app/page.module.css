@@ -1,13 +1,14 @@
 /**/
 .background {
-  background-color: white;
+  background-color: gainsboro;
   color: black;
 }
 .navbar {
-  background-color: gainsboro;
+  background-color: white;
   border: 3px;
   border-color: black;
   display: grid;
+  margin: 2px;
 }
 .navItem {
   background-color: gainsboro;
