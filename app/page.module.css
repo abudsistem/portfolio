@@ -7,8 +7,13 @@
   background-color: gainsboro;
   border: 3px;
   border-color: black;
+  display: grid;
 }
-
+.navItem {
+  background-color: gainsboro;
+  border: 3px;
+  border-color: black;
+}
 
 .main {
   display: flex;
