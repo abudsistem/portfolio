@@ -10,7 +10,7 @@ export default function Navbar() {
                             icono
                         </Link>
                     </li>
-                    <li >
+                    <li className={`${styles.navItem}`}>
                         <Link href='/hero'>
                             HERO
                         </Link>
