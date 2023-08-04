@@ -1,7 +1,14 @@
 /**/
 .background {
   background-color: white;
+  color: white;
 }
+.navbar {
+  background-color: gainsboro;
+  border: 3px;
+  border-color: black;
+}
+
 
 .main {
   display: flex;
