@@ -3,7 +3,7 @@ const NavItem = ({ text, href, active }) => {
   return (
     <Link href={href}>
       <a
-        className={`${styles.NavItem} ${
+        className={`nav__item ${
           active ? "active" : ""
         }`}
       >
