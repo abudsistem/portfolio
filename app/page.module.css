@@ -9,9 +9,16 @@
   border-color: black;
   display: grid;
   margin: 2px;
-  position:relative;
+  grid-template-columns: auto;
+  grid-template-rows: auto;
+  grid-template-areas: 'logo pages exit';
+  justify-items: center;
+  column-gap: 1em;
+  padding: 1em;
+
 }
 .navItem {
+  grid-area: pages;
   background-color: #D8D9DA;
   border: 3px solid #000;
   text-decoration: none;
