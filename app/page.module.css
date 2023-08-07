@@ -9,6 +9,7 @@
   border-color: black;
   display: grid;
   margin: 2px;
+  position:relative;
 }
 .navItem {
   background-color: #D8D9DA;
