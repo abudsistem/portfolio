@@ -3,13 +3,8 @@ import React from 'react';
 import styles from '../../../page.module.css'
 export default function Navbar() {
     return(
-            <nav>
+            <nav className={`${styles.nav}`}>
                 <ul>
-                    <li className={`${styles.navItem}`}>
-                        <Link href='/' >
-                            icono
-                        </Link>
-                    </li>
                     <li className={`${styles.navItem}`}>
                         <Link href='/hero'>
                             HERO
