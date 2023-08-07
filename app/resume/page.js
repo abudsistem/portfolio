@@ -1,8 +1,8 @@
-export default function AboutMe() {
+export default function Resume() {
     return(
-        <h1>
-            hola
-        </h1>
+        <h2>
+            Resume
+        </h2>
     
     )
 }

@@ -1,7 +1,7 @@
-export default function AboutMe() {
+export default function Testimonials() {
     return(
         <h1>
-            hola
+            Testimonials
         </h1>
     
     )
