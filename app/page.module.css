@@ -1,17 +1,18 @@
 /**/
 .background {
-  background-color: gainsboro;
-  color: black;
+  background-color: #fff;
+  color: #000;
 }
-.navbar {
-  background-color: white;
+.navBar {
+  background-color: #D8D9DA;
   border: 3px;
   border-color: black;
   display: grid;
   margin: 2px;
 }
 .navItem {
-  background-color: gainsboro;
-  border: 3px;
-  border-color: black;
+  background-color: #D8D9DA;
+  border: 3px solid #000;
+  text-decoration: none;
+  display: inline-flex;
 }

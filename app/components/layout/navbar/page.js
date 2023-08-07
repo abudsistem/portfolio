@@ -3,7 +3,7 @@ import React from 'react';
 import styles from '../../../page.module.css'
 export default function Navbar() {
     return(
-            <nav className={`${styles.nav}`}>
+            <nav className={`${styles.navBar}`}>
                 <ul>
                     <li className={`${styles.navItem}`}>
                         <Link href='/hero'>
