@@ -14,14 +14,18 @@
   justify-items: center;
   column-gap: 1em;
   padding: 1em;
-
+}
+.navContainer{
+  border:5px solid #000;
 }
 .navItem {
   grid-area: pages;
   background-color: #D8D9DA;
-  border: 3px solid #000;
+  border: 4px solid #000;
   text-decoration: none;
   display: inline-flex;
   padding: 5px;
   margin: .5rem;
+  height: 3rem;
+  width: 9rem;
 }
