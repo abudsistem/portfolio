@@ -6,7 +6,7 @@ export default function Footer() {
             <section>
                 <p>copyright</p>
             </section>
-            <section>
+            <section className={`${styles.footerLinks}`}>
                 <a href="https://openai.com" target="_blank" rel="noopener noreferrer">
                     Contact
                 </a>
