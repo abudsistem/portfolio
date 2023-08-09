@@ -14,9 +14,10 @@ export default function AboutMe() {
                     <Skillsfrontend />
                 <h4>backend</h4>
                     <Skillsbackend/>
-            <h3>mentors</h3>
+            <h3>Mentors</h3>
                 <p>my mentors are the following sites and people</p>
                 <Mentors />
+            
         </header>
     )
 }

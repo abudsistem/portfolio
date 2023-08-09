@@ -17,6 +17,10 @@ export default function Contact() {
             
             <p><strong>work with me!</strong></p>
 
+            <span>Quito,Ecuador</span>
+            <span>abudsystem@gmail.com</span>
+            <span>0978764139</span>
+
             <div>
             <label> name: </label>
             <input

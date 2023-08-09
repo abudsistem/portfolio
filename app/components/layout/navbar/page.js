@@ -7,7 +7,7 @@ export default function Navbar() {
                 <ul className={`${styles.navContainer}`}>
                     <li className={`${styles.navItem}`}>
                         <Link href='/hero'>
-                            HERO
+                            Hero
                         </Link>
                     </li>
                     <li className={`${styles.navItem}`}>
