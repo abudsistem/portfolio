@@ -34,5 +34,9 @@
 /*FOOTER*/
 .footer{
   background-color: 0;
-  
+  padding: 0 60px;
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }

@@ -1,6 +1,6 @@
 export default function Footer() {
     return(
-        <footer>
+        <footer className={`${styles.footer}`} >
             <section>
                 <a href="https://openai.com" target="_blank" rel="noopener noreferrer">
                     Contact
