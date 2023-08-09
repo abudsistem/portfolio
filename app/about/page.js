@@ -4,12 +4,13 @@ import Mentors from "../components/skills/mentors/page";
 
 export default function AboutMe() {
     return(
-        <>
-            <h1>hola</h1>
+        <header>
+            <h2>Skills</h2>
+                <h3>Frontend</h3>
             <Skillsfrontend />
+                <h3>backend</h3>
             <Skillsbackend />
-            <Mentors />
-        </>
+        </header>
         
     
     )

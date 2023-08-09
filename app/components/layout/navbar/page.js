@@ -32,7 +32,7 @@ export default function Navbar() {
                     </li>
                     <li className={`${styles.navItem}`}>
                         <Link href='/contact' >
-                                CONTACT
+                            CONTACT
                         </Link>
                     </li>
                 </ul>
