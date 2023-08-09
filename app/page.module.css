@@ -3,6 +3,7 @@
   background-color: #fff;
   color: #000;
 }
+/*NAV*/
 .navBar {
   border: 3px;
   border-color: black;
@@ -28,4 +29,10 @@
   height: 3rem;
   width: 9rem;
   justify-content: center;
+}
+
+/*FOOTER*/
+.footer{
+  background-color: 0;
+  
 }

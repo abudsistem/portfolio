@@ -5,6 +5,7 @@ import Testimonials from './testimonials/page'
 import Resume from './resume/page'
 import Hero from './hero/page'
 import Contact from './contact/page'
+import Footer from './footer/page'
 
 export default function Home() {
   return (
@@ -15,7 +16,7 @@ export default function Home() {
       <AboutMe />
       <Testimonials />
       <Contact/>
-      
+      <Footer/>
     </main>
   )
 }
