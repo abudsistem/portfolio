@@ -6,23 +6,23 @@ export default function Footer() {
             <section>
                 <p>copyright</p>
             </section>
-            <section className={`${styles.footerLinks}`}>
-                <a href="https://openai.com" target="_blank" rel="noopener noreferrer">
+            <section >
+                <a className={`${styles.footerLinks}`} href="https://openai.com" target="_blank" rel="noopener noreferrer">
                     Contact
                 </a>
-                <a href="https://openai.com" target="_blank" rel="noopener noreferrer">
+                <a className={`${styles.footerLinks}`} href="https://openai.com" target="_blank" rel="noopener noreferrer">
                     RSS
                 </a>
-                <a href="https://github.com/abudsistem" target="_blank" rel="noopener noreferrer">
+                <a className={`${styles.footerLinks}`} href="https://github.com/abudsistem" target="_blank" rel="noopener noreferrer">
                     GitHub
                 </a>
-                <a href="https://openai.com" target="_blank" rel="noopener noreferrer">
+                <a className={`${styles.footerLinks}`} href="https://openai.com" target="_blank" rel="noopener noreferrer">
                     Twitter
                 </a>
-                <a href="https://openai.com" target="_blank" rel="noopener noreferrer">
+                <a className={`${styles.footerLinks}`} href="https://openai.com" target="_blank" rel="noopener noreferrer">
                     LinkedIn
                 </a>
-                <a href="https://www.instagram.com/eddleobor/" target="_blank" rel="noopener noreferrer">
+                <a className={`${styles.footerLinks}`} href="https://www.instagram.com/eddleobor/" target="_blank" rel="noopener noreferrer">
                     Instagram
                 </a>
     
