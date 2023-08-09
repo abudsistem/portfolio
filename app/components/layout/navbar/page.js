@@ -16,11 +16,6 @@ export default function Navbar() {
                         </Link>
                     </li>
                     <li className={`${styles.navItem}`}>
-                        <Link href='/portfolio'>
-                            PORTFOLIO
-                        </Link>
-                    </li>
-                    <li className={`${styles.navItem}`}>
                         <Link href='/resume'>
                             RESUME
                         </Link>
