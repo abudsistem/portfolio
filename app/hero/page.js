@@ -1,8 +1,10 @@
+import Navbar from "../components/layout/navbar/page";
+
 export default function Hero() {
     return(
-        <h1>
-            Hero
-        </h1>
-    
+        <section>
+            <Navbar />
+            <h2></h2>
+        </section>
     )
 }
